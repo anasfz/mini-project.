@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1674153247 source:c:\users\fezzi\documents\my projict\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1674153247 source:c:\users\fezzi\documents\first project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
